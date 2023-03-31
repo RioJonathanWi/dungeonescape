@@ -1,0 +1,40 @@
+
+lightning.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+lighting1
+  rotate: false
+  xy: 1, 1
+  size: 64, 148
+  orig: 64, 148
+  offset: 0, 0
+  index: -1
+lightning2
+  rotate: false
+  xy: 67, 1
+  size: 64, 148
+  orig: 64, 148
+  offset: 0, 0
+  index: -1
+lightning3
+  rotate: false
+  xy: 133, 1
+  size: 64, 148
+  orig: 64, 148
+  offset: 0, 0
+  index: -1
+lightning4
+  rotate: false
+  xy: 199, 1
+  size: 64, 148
+  orig: 64, 148
+  offset: 0, 0
+  index: -1
+lightning5
+  rotate: false
+  xy: 265, 1
+  size: 64, 148
+  orig: 64, 148
+  offset: 0, 0
+  index: -1
